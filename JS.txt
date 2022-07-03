@@ -1,0 +1,11 @@
+JAVASCRIPT
+
+-  JavaScript é uma linguagem interpretada (em tempo real)
+- Baseada em Protótipos = conjunto de funções e habilidades em comum com outras linguagens
+- Multiparadigma = orientação em objeto ou programação instruturada 
+- Comumente utilizada em aplicações web client-side - Linguagem que browser entende
+- Segue o padrão ECMAScript - Padrão para varias linguagens  
+
+CONST = A declaração CONST cria uma variável cujo o valor é fixo, ou seja, uma constante somente leitura.
+
+NODE.JS =  executa códigos 
